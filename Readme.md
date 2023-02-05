@@ -1,7 +1,8 @@
 # Assignment4
 # Summary
 
-**In the first question**\
+**In the first question**
+
 I am using Jupyter Notebook as my IDE and Pandas to iterate through the data and create a two dimensional dataframe.
 Pandas has inbuilt functions to read data from CSV, JSON, Parquet and other files, I am reading the sample file
 provided in the Google Drive with read_csv function. At this time all the other parameter values are default.
@@ -22,7 +23,7 @@ We can use astype() function to change the dataframe column dtype.
 matplotlib function helps to plot and scatter the data on two dimensional X and Y axis according to the arguments 
 passed.
 
-**In the second question:**\
+**In the second question:**
 
 Pythons inbuilt functions makes it a primary goto language for data analysis.
 
