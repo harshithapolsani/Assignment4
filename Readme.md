@@ -34,3 +34,5 @@ The fit() function in the linearRegression class helps us to fit the train data 
 Prediction on Y can be done with the predict() function which is the extension of Linear Regression class.
 
 As always matplot lib plt and scatter helps to visualize the data in the final step.
+
+Video Link: <a href="https://ucmo.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=352431b3-e0b9-4e89-ad02-afa00061608c" target="_blank"> CLICK HERE </a>
